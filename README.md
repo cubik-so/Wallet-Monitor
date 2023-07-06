@@ -1,2 +1,2 @@
 # Wallet-Monitor
-Backend for doing realtime anaylsis of a connect wallet on Cubik
+Backend for doing real-time analysis of a connected wallet on Cubik
