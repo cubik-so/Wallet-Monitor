@@ -11,8 +11,8 @@
     "type-check": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "dhruvsol",
+  "license": "GPL-3.0-only",
   "dependencies": {
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
