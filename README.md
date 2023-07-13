@@ -19,3 +19,5 @@
     <a href="https://gitbook.cubik.so">Gitbook</a>
   </p>
 </p>
+
+![Alt](https://repobeats.axiom.co/api/embed/fe3c2cdf320b0e21064707dd7c18715967e1a796.svg "Repobeats analytics image")
